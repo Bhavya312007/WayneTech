@@ -1,4 +1,4 @@
-# Candy V1
+# WayneTech
 
 Made by: @Bhavya312007
 Repository: [https://github.com/Bhavya312007/WayneTech](https://github.com/Bhavya312007/WayneTech)
