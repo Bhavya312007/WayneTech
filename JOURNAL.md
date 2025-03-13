@@ -21,7 +21,7 @@ Desired Specs-
 - possibly a control system from mobile or pc.
  
 
-## Day 1 (3rd Feb, 2025)
+## Day 1 (13 March, 2025)
 
 Did research on printers and how they work
 
