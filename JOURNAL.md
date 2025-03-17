@@ -3,8 +3,11 @@
 Made by: @Bhavya312007
 Repository: [https://github.com/Bhavya312007/WayneTech](https://github.com/Bhavya312007/WayneTech)
 
-### Total Hours: 2
+### Total Hours: 6
 
+
+- [x] I have a 3D printer or will be getting one before March 21st
+      
 ---
 
 ## Overview:
@@ -35,4 +38,26 @@ I want this thing to be able to fit in a small box so I can print whenever I wan
 Main idea is to be able to make a printer more like blot and disassemble or fold the top side.
 
 ### Time Elapsed: 2 Hrs
+
+
+## Day 2 (14 March, 2025)
+
+Did a little more research on printers. Its so confusing and i don't ahve a 3d printer right now.
+
+### Time Elapsed: 1 Hrs
+
+## Day 3 (15 March, 2025)
+
+Today i watched mostly tutorials and made a sketch of what kind of printer i want finally.
+It will be a xy printer and bed will go down from up. I want it to be able to fast print. 
+
+### Time Elapsed: 2 Hrs
+
+## Day 3 (16 March, 2025)
+
+ I have decided to make voron printer maybe trident or 0.2 but under 200-300 dollors as it starts from $600. I won't make a 3d model but will use vorons that will be easy to implement.
+ 
+
+### Time Elapsed: 1 Hrs
+
 
