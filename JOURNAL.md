@@ -3,7 +3,7 @@
 Made by: @Bhavya312007
 Repository: [https://github.com/Bhavya312007/WayneTech](https://github.com/Bhavya312007/WayneTech)
 
-### Total Hours: 6
+### Total Hours: 9
 
 
 - [x] I have a 3D printer or will be getting one before March 21st
@@ -59,5 +59,16 @@ It will be a xy printer and bed will go down from up. I want it to be able to fa
  
 
 ### Time Elapsed: 1 Hrs
+
+## Day 4 (18 March, 2025)
+
+I done research on voron 3d printers and i have decided to make voron trident but still can change that then i might switch to voron 2 which is latest as voron 0 is very small and has some problems. Other voron versions are xz printers. 
+
+I currently do not have any printer so i am trying to minimise as many mistakes as possible. 
+Voron works on killper which i belive can work on raspberrypi zero 2 w too that i possess. So for that i am thing of using that. Also i will exclude screen and other parts to reduce pricing. Voron 0 can work if i change its size but then again i want to minimize the errors and problems so i am thinking of using a pre built 3d model from voron.
+
+Tomorrow i will check the 3d models and finalize 1 model. Check the bom files and create one of my own. Move forward with the Project and do some more research.
+
+### Time Elapsed: 3 Hrs
 
 
