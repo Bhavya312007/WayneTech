@@ -3,7 +3,7 @@
 Made by: @Bhavya312007
 Repository: [https://github.com/Bhavya312007/WayneTech](https://github.com/Bhavya312007/WayneTech)
 
-### Total Hours: 9
+### Total Hours: 13
 
 
 - [x] I have a 3D printer or will be getting one before March 21st
@@ -71,4 +71,10 @@ Tomorrow i will check the 3d models and finalize 1 model. Check the bom files an
 
 ### Time Elapsed: 3 Hrs
 
+## Day 5 (19 March, 2025)
+
+I installed and run fusion 360 which was really hard to run and was lagging very much. I checked the bom of voron trident and 2.4 but it is incomplete. A lot of items are missing or expensive. I belive if I buy them from local vendors it will be very cheap but i am not sure if they can provide that by the exact specification and cheap. I need to consult with my uncle if it is possible , he buys generally nuts and bolts. 
+ 
+
+### Time Elapsed: 4 Hrs
 
